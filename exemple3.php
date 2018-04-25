@@ -3,7 +3,7 @@
 
 $phrase = "hakuna matata";
 
-// fonction pour trouver le nombre de mot dans une phrase
+// fonction pour trouver le nombre de lettre dans une phrase
 $longueur = strlen($phrase);
 
 echo $phrase." contient ".$longueur." lettres";
